@@ -1,6 +1,6 @@
 # league-ranking-python
 
-A league ranking (Test(=) system written for SPAN Digital
+A league ranking (Test) system written for SPAN Digital
 
 Provided a list of games the system will calculate the points for each team
 
